@@ -2,8 +2,8 @@
 title: "GitTestMarkdown"
 author: "Navaak"
 date: '2022-04-30'
-output: html_document
-          keep_md: true
+output:
+  github_document
 ---
 
 ```{r setup, include=FALSE}
